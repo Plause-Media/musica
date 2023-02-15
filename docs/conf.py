@@ -55,6 +55,7 @@ extensions = [
     "sphinx.ext.coverage",
     "sphinx.ext.napoleon",
     "sphinxcontrib.mermaid",
+    "sphinx_rtd_theme",
 ]
 
 
